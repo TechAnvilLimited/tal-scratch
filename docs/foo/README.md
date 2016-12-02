@@ -1,4 +1,1 @@
-# README for /docs/foo
-
-Hello!
-------
+### I am the README for /docs/foo. Greetz!
